@@ -1,0 +1,8 @@
+Tomato; -1, 1, 1, 1, 1
+Pesticides01; -1, 1, -1, -1, -1
+Pesticides02; -1, 1,-1, -1, -1
+Pesticides03; -1, 1, -1, -1, -1
+Pesticides04; 1, 1, -1, -1, -1
+Plastics; 1, 1, -1, -1, -1
+Tomato1; -1, -1, 1, 1, 1
+Tomato2; -1, 1, 1, 1, 1
